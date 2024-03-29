@@ -4,6 +4,7 @@ Helo `User` silahkan Ikuti Cara di Bawah Ini
 
 ```python
 pkg update && pkg upgrade
+termux-setup-storage
 pkg install python
 pkg install python-pip
 pkg install git
